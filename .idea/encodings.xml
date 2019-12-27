@@ -3,13 +3,11 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/images" charset="GBK" />
     <file url="file://$PROJECT_DIR$/libs" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/bean/CatBean.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/bean/ClientBean.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/testmutlogin/CatLogin1.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/zsc/edu/cn/bean/CatBean.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/zsc/edu/cn/bean/ClientBean.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/zsc/edu/cn/chatroom/CatChatRoom.java" charset="GBK" />
-    <file url="file://$PROJECT_DIR$/src/zsc/edu/cn/login/CatLogin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/zsc/edu/cn/login/CatLogin.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/zsc/edu/cn/login/CatResign.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/zsc/edu/cn/service/CatServer.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/zsc/edu/cn/util/CatUtil.java" charset="GBK" />

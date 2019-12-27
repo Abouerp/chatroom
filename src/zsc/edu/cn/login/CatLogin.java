@@ -188,6 +188,7 @@ public class CatLogin extends JFrame {
                 if (result.getString(1).equals(u_name)) {
                     if (result.getString(2).equals(u_pwd)) {
                         try {
+                            //监听本机的6667端口
                             Socket client = new Socket("localhost", 6667);
                             btnNewButton.setEnabled(false);
                             CatChatRoom frame = new CatChatRoom(u_name, client);

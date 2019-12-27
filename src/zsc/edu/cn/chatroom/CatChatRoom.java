@@ -186,6 +186,7 @@ public class CatChatRoom extends JFrame {
         lblNewLabel.setForeground(Color.WHITE);
         getContentPane().add(lblNewLabel);
 
+        //将上线信息发送到服务器
         try {
             oos = new ObjectOutputStream(clientSocket.getOutputStream());
             // 记录上线客户的信息在catbean中，并发送给服务器

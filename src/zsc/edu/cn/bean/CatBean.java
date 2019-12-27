@@ -16,23 +16,39 @@ public class CatBean implements Serializable {
 	 * 存放选中的用户
 	 */
 	private HashSet<String> clients;
-
+	/**
+	 * 文件目的地
+	 */
 	private HashSet<String> to;
-	
+	/**
+	 * 在线的人
+	 */
 	public HashMap<String, ClientBean> onlines;
-
+	/**
+	 * 发送的信息
+	 */
 	private String info;
-
+	/**
+	 * 时间
+	 */
 	private String timer;
-
+	/**
+	 * 记录的文件名称
+	 */
 	private String name;
 
 	private String fileName;
-
+	/**
+	 * 文件大小
+	 */
 	private int size;
-
+	/**
+	 * 接收者ip
+	 */
 	private String ip;
-
+	/**
+	 * 端口
+	 */
 	private int port;
 
 	public int getSize() {

@@ -2,6 +2,9 @@ package zsc.edu.cn.bean;
 
 import java.net.Socket;
 
+/**
+ * @author Abouerp
+ */
 public class ClientBean {
 	private String name;
 	private Socket socket;

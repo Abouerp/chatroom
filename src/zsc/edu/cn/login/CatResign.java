@@ -10,7 +10,7 @@ import java.sql.*;
 /**
  * ×¢²á½çÃæ
  *
- * @author Abouerp
+ * @author ColdFish
  */
 
 public class CatResign extends JFrame {

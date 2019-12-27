@@ -21,7 +21,7 @@ import static java.awt.Color.WHITE;
  * 登录界面窗口
  * 实现用户登录功能
  *
- * @author Abouerp and coldFish
+ * @author ColdFish
  */
 public class CatLogin extends JFrame {
     private static final long serialVersionUID = 1L;

@@ -34,7 +34,7 @@ public class CatServer {
     /**
      * 线程内部类
      *
-     * @author HP
+     * @author ColdFish
      */
     class CatClientThread extends Thread {
         private Socket client;

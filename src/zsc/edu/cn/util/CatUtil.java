@@ -5,7 +5,7 @@ import java.util.Date;
 
 /**
  * ∑Ω∑®¿‡
- * @author HP
+ * @author Abouerp
  *
  */
 public class CatUtil {
